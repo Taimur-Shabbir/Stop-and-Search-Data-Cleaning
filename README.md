@@ -30,13 +30,6 @@ overlaying the Lat-Long values over a map of England and external coordinate dat
 in England to find outliers and decided how to manage them.
 
 
-
-There are three individual posts in this series in the form of Jupyter Notebooks:
-
-Part 0: A bird's eye view of NLP in the context of Sentiment Analysis & Text Classification
-Part 1: Tokenising and Pre-processing textual data
-Part 2: Methods of text vectorisation, also known as feature representation
-
 # How to run this project
 
 - Download the Jupyter notebook
