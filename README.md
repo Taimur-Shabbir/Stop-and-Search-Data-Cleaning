@@ -13,10 +13,10 @@ next steps in a project's pipeline.
 After a great deal of time spent searching for adequately interesting and dirty datasets, I found data on stop-and-search 
 incidents that occurred in 7 different counties in England from December 2019 to February 2020 from https://data.police.uk/data/. These incidents refer to instances
 where police officers suspect civilians of carrying illegal substances and exercise their authority to search civilians. The 'end
-goal' would be to predict the 'Outcome' variable, which illustrates the decision an officer makes after having conducted the search.
+goal' would be to predict the 'Outcome' variable, which illustrates the decision an officer makes after having conducted the search. Some very interesting features exist in the data, including 'Object of search', 'Outcome linked to object of search',
+'Removal of more than just outer clothing' and 'Type' (which illustrates whether an individual, an individual's vehicle or both were searched) in addition to more basic variables such as 'Age range' and 'Gender'
 
-Upon exploring the datasets, I found around a fifth of the data to be missing. Some features contributed to this figure much 
-more than others. For each feature, I:
+Upon exploring the datasets, I found around a fifth of the data to be missing in total. Some features contributed to this figure much more than others; I found this out by creating a summary table which showed me absolute number and the percentage of data missing within each feature. For each feature, I:
 
 - explored the quantity of data missing
 - visualised the variable if needed
