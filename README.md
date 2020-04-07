@@ -11,7 +11,7 @@ wanted to take multiple dirty datasets, find an interesting angle to explore and
 next steps in a project's pipeline.
 
 After a great deal of time spent searching for adequately interesting and dirty datasets, I found data on stop-and-search 
-incidents that occurred in 7 different counties in England from December 2019 to February 2020. These incidents refer to instances
+incidents that occurred in 7 different counties in England from December 2019 to February 2020 from https://data.police.uk/data/. These incidents refer to instances
 where police officers suspect civilians of carrying illegal substances and exercise their authority to search civilians. The 'end
 goal' would be to predict the 'Outcome' variable, which illustrates the decision an officer makes after having conducted the search.
 
