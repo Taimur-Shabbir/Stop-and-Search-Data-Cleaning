@@ -20,7 +20,7 @@ more than others. For each feature, I:
 
 - explored the quantity of data missing
 - visualised the variable if needed
-- hypothesised how important of a feature it could bein predicting the target variable
+- hypothesised how important of a feature it could be in predicting the target variable
 - used the above point to inform my decision as to how to handle the missing data
 
 I used a combination of dropping observations, replacing missing values using 'back fill' and 'forward fill' plus using the Imputer
